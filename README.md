@@ -16,7 +16,7 @@
 <br><br>
 
 <!-- NAV BAR -->
-[`ABOUT`](#-about) • [`METHODOLOGY`](#️-pentest-methodology) • [`ARSENAL`](#️-arsenal) • [`ROADMAP`](#️-roadmap) • [`FIELD NOTES`](#-field-notes-lab-use-only) • [`PROJECTS`](#-projects) • [`STATS`](#-github-analytics) • [`CONNECT`](#-lets-connect)
+[`ABOUT`](#-about) • [`METHODOLOGY`](#️-pentest-methodology) • [`ARSENAL`](#️-arsenal) • [`FIELD NOTES`](#-field-notes-lab-use-only)  • [`STATS`](#-github-analytics) • [`CONNECT`](#-lets-connect)
 
 </div>
 
@@ -105,32 +105,16 @@ web-vulns/  recon/  linux-basics/  python-scripting/  ctf-notes/
 
 
 
-## 🚀 `PROJECTS`
 
-<!-- Replace REPO-NAME-1 / REPO-NAME-2 with real repo names -->
-<a href="https://github.com/JPKUMAWAT/REPO-NAME-1"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JPKUMAWAT&repo=REPO-NAME-1&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=C9D1D9&border_radius=10"/></a>
-<a href="https://github.com/JPKUMAWAT/REPO-NAME-2"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JPKUMAWAT&repo=REPO-NAME-2&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=C9D1D9&border_radius=10"/></a>
-
-</div>
 
 
 ## 📊 `GITHUB ANALYTICS`
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JPKUMAWAT&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=C9D1D9&ring_color=FF3030&border_radius=10"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPKUMAWAT&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3030&text_color=C9D1D9&border_radius=10"/>
 
 <img src="https://streak-stats.demolab.com?user=JPKUMAWAT&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=FF3030"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JPKUMAWAT&bg_color=0D1117&color=FF3030&line=FF3030&point=FFFFFF&area=true&area_color=FF3030&hide_border=true"/>
 
-<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JPKUMAWAT&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
-
-<br>
-
-<!-- Needs the snake.yml workflow to generate the 'output' branch -->
-<img src="https://raw.githubusercontent.com/JPKUMAWAT/JPKUMAWAT/output/snake-dark.svg" width="95%" alt="contribution snake"/>
 
 </div>
 
